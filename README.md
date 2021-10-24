@@ -25,3 +25,6 @@
 -> 각 페이지마다 사용자로부터 검색 키워드를 받아오면 구축한 DB에서 데이터를 검색하고 받아와 웹사이트에 구현합니다.  
 
 ## 07 구현 화면
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3rQlc%2FbtriFtDPzcV%2FYgKVKHd7Vi31l9P4fmKm6K%2Fimg.jpg)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdxmZ8L%2FbtriJuvrpE9%2FHYxfVKwAVV5bEhQNAZg1F1%2Fimg.jpg)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDZSSv%2FbtriAyGApv3%2FFGOyoZkbVnagXodQETPKUK%2Fimg.jpg)
